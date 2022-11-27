@@ -1,0 +1,5 @@
+pip3 install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu117
+pip install notebook
+pip install torchtext
+pip install pandas emoji transformers numpy
+pip install -U scikit-learn
